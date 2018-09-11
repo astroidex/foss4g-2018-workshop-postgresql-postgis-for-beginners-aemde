@@ -4,6 +4,8 @@
 
 ![](img/foss4g-2018.png ) ![](img/postgresql_postgis.png)
 
+Workshop was friendliy supported by [Lars Lingner @mapwebbing](https://twitter.com/mapwebbing) and [Felix Kunde @flxku](https://twitter.com/flxku)
+
 
 ## Astrid Emde
 
@@ -48,7 +50,7 @@ You can download OSGeoLive with the following link. You can install OSGeoLive, r
 ## actual Software Versions
 
 * PostgreSQL 10.4 (2018-05-10) https://www.postgresql.org/
-* PostGIS 2.4.0 (2017-10-1) http://www.postgis.org/
+* PostGIS 2.4.4 (2018-04-08) https://postgis.net/
 
 
 ### OSGeoLive 12.0
